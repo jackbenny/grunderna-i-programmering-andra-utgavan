@@ -1,4 +1,4 @@
-# Grunderna i programmering
+# Grunderna i programmering (andra utgåvan)
 Här finner du all exempelkod för *Grunderna i programmering (andra utgåvan)*
 (ISBN: 978-91-983300-5-2).
 
