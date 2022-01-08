@@ -13,9 +13,9 @@ Trots flera korrekturläsningar och testkörningar av koden har två fel kommit
 med i boken.
 
 * Kodexemplet på sidan 103 saknar kolon och parenteser. Rätt 
-kod [finns här](sidan_103_ex1.py).
+kod [finns här](kapitel7/sidan_103_ex1.py).
 * Det första kodexemplet på sidan 104 har ett felaktigt variabelnamn. Rätt 
-kod [finns här](sidan_104_ex1.py).
+kod [finns här](kapitel7/sidan_104_ex1.py).
 
 ## Baksidetexten
 **Grunderna i programmering** lär ut de grunder du behöver för att komma igång
